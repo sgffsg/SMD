@@ -3,7 +3,7 @@
 <tr><td style="width: 40%;">
 <a href="">Предыдущая тема</a></td>
 <td style="width: 20%;">
-<a href="../readme.md">Содержание</a></td>
+<a href="../../../readme.md">Содержание</a></td>
 <td style="width: 40%;">
 <a href="">Следующая тема</a></td>
 <tr></table>
@@ -12,9 +12,9 @@
 <table style="width: 100%;">
 <tr><td style="width: 40%;"></td>
 <td style="width: 20%;">
-<a href="../readme.md">Содержание</a></td>
+<a href="../../../readme.md">Содержание</a></td>
 <td style="width: 40%;">
-<a href="">Next</a></td>
+<a href="./t1l2.md">Презентация по SDLC</a></td>
 <tr></table>
 
 <!-- IMG -->
