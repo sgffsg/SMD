@@ -13,7 +13,7 @@
 <div style="page-break-after: always;"></div>
 
 <!-- всё, что выше - титульный лист -->
-<h1>https://github.com/sgffsg/SMD</h1>
+<!-- <h1>https://github.com/sgffsg/SMD</h1> -->
 
 <details>
 
