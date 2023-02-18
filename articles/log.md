@@ -10,7 +10,7 @@
 
 Здесь когда-нибудь появится таблица с датой проведения лекций, практических работ, отметками о присутствии на лекциях, сданных лабораторных работах... и т.д. вообщем **обычный журнал**
 
-2. [Ссылка на журнал](https://docs.google.com/spreadsheets/d/1OFRv0cHhfU16OEiUQcG3wcC0CSnKj0lZ2aDKprUicdw/edit?usp=sharing)
+[Ссылка на журнал](https://docs.google.com/spreadsheets/d/1OFRv0cHhfU16OEiUQcG3wcC0CSnKj0lZ2aDKprUicdw/edit?usp=sharing)
 
 
 
