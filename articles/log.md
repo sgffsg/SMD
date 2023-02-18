@@ -29,13 +29,13 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      <h2>Лекция №1</h2>
+      Лекция №1
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>Жизненный цикл Программного обеспечения</h2>
+      Жизненный цикл Программного обеспечения
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>06.02.2023</h2>
+      06.02.2023
     </td>
   </tr>
 
