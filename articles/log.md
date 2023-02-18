@@ -10,7 +10,7 @@
 
 Здесь когда-нибудь появится таблица с датой проведения лекций, практических работ, отметками о присутствии на лекциях, сданных лабораторных работах... и т.д. вообщем **обычный журнал**
 
-[Ссылка на журнал](https://docs.google.com/spreadsheets/d/1OFRv0cHhfU16OEiUQcG3wcC0CSnKj0lZ2aDKprUicdw/edit?usp=sharing)
+[Журнал посещений](https://docs.google.com/spreadsheets/d/1OFRv0cHhfU16OEiUQcG3wcC0CSnKj0lZ2aDKprUicdw/edit?usp=sharing)
 
 
 
@@ -41,49 +41,49 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      <h2>Практика I подгруппа</h2>
+      Практика I подгруппа
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>Введение в C#</h2>
+      Введение в C#
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>11.02.2023</h2>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: center; width: 100%;">
-      <h2>Лекция №2</h2>
-    </td>
-    <td style="text-align: center; width: 100%;">
-      <h2>Жизненный цикл Программного обеспечения</h2>
-    </td>
-    <td style="text-align: center; width: 100%;">
-      <h2>13.02.2023</h2>
+      11.02.2023
     </td>
   </tr>
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      <h2>Практика II подгруппа</h2>
+      Лекция №2
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>Введение в C#</h2>
+      Основные принципы алгоритмизации
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>18.02.2023</h2>
+      13.02.2023
     </td>
   </tr>
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      <h2>Лекция №3</h2>
+      Практика II подгруппа
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>Будет известна к понедельнику</h2>
+      Введение в C#
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>20.02.2023</h2>
+      18.02.2023
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      Лекция №3
+    </td>
+    <td style="text-align: center; width: 100%;">
+      Будет известна к понедельнику
+    </td>
+    <td style="text-align: center; width: 100%;">
+      20.02.2023
     </td>
   </tr>
 </table>
