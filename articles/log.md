@@ -76,7 +76,7 @@
       <h2>Лекция №3</h2>
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>Тема лекции</h2>
+      <h2>Будет в понедельник</h2>
     </td>
     <td style="text-align: center; width: 100%;">
       <h2>20.02.2023</h2>
