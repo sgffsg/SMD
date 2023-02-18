@@ -13,6 +13,19 @@
 <table style="width: 100%;">
     <tr>
         <td style="width: 100%;">
+            <h2>Название занятия</h2>
+        </td>
+    <tr>
+    <tr>
+        <td style="width: 100%;">
+            <h2>Дата проведения</h2>
+        </td>
+    <tr>
+</table>
+
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 100%;">
             <a href="../README.md">Назад</a>
         </td>
     <tr>
