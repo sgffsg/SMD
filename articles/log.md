@@ -10,6 +10,10 @@
 
 Здесь когда-нибудь появится таблица с датой проведения лекций, практических работ, отметками о присутствии на лекциях, сданных лабораторных работах... и т.д. вообщем **обычный журнал**
 
+2. [Ссылка на журнал](https://docs.google.com/spreadsheets/d/1OFRv0cHhfU16OEiUQcG3wcC0CSnKj0lZ2aDKprUicdw/edit?usp=sharing)
+
+
+
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center; width: 100%;">
@@ -76,7 +80,7 @@
       <h2>Лекция №3</h2>
     </td>
     <td style="text-align: center; width: 100%;">
-      <h2>Будет в понедельник</h2>
+      <h2>Будет известна к понедельнику</h2>
     </td>
     <td style="text-align: center; width: 100%;">
       <h2>20.02.2023</h2>
