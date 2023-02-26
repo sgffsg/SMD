@@ -41,7 +41,7 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      Практика I подгруппа
+      Практика II подгруппа
     </td>
     <td style="text-align: center; width: 100%;">
       Введение в C#
@@ -65,7 +65,7 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      Практика II подгруппа
+      Практика I подгруппа
     </td>
     <td style="text-align: center; width: 100%;">
       Введение в C#
@@ -80,10 +80,46 @@
       Лекция №3
     </td>
     <td style="text-align: center; width: 100%;">
-      Будет известна к понедельнику
+      Языки и методы программирования
     </td>
     <td style="text-align: center; width: 100%;">
       20.02.2023
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      Практика II подгруппа
+    </td>
+    <td style="text-align: center; width: 100%;">
+      Арифметические операции c числами и строками
+    </td>
+    <td style="text-align: center; width: 100%;">
+      25.02.2023
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      Лекция №4
+    </td>
+    <td style="text-align: center; width: 100%;">
+      Методы программирования
+    </td>
+    <td style="text-align: center; width: 100%;">
+      27.02.2023
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      Практика I подгруппа
+    </td>
+    <td style="text-align: center; width: 100%;">
+      Арифметические операции c числами и строками
+    </td>
+    <td style="text-align: center; width: 100%;">
+      04.03.2023
     </td>
   </tr>
 </table>
