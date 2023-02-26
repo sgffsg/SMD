@@ -41,7 +41,7 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      Практика II подгруппа
+      Практическое занятие №1 [II подгруппа]
     </td>
     <td style="text-align: center; width: 100%;">
       Введение в C#
@@ -65,7 +65,7 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      Практика I подгруппа
+      Практическое занятие №1 [I подгруппа]
     </td>
     <td style="text-align: center; width: 100%;">
       Введение в C#
@@ -89,7 +89,7 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      Практика II подгруппа
+      Практическое занятие №2 [II подгруппа]
     </td>
     <td style="text-align: center; width: 100%;">
       Арифметические операции c числами и строками
@@ -113,7 +113,7 @@
 
   <tr>
     <td style="text-align: center; width: 100%;">
-      Практика I подгруппа
+      Практическое занятие №2 [I подгруппа]
     </td>
     <td style="text-align: center; width: 100%;">
       Арифметические операции c числами и строками
