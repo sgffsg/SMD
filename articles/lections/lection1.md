@@ -154,7 +154,7 @@ SRS является ориентиром для разработчиков пр
 6. [V-Model.](#q6)
 
 7. [Kanban Model.](#q7)
----
+
 
 <table style="width: 100%;">
     <tr>
