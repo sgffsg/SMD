@@ -154,6 +154,7 @@ P.S. Не все темы указанные в плане будут изуча
 # Полезные ссылки
 
 [Курс сайта metanit по С#.](https://metanit.com/sharp/tutorial/)
+
 [Учебник "Программирование на языке С#" Тумаков Д.Н.](./docs/Tumakov___Programmirovanie_na_yazyke_C_.pdf)
 
 <br>
