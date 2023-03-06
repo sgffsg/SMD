@@ -122,6 +122,30 @@
       04.03.2023
     </td>
   </tr>
+
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      Лекция №5
+    </td>
+    <td style="text-align: center; width: 100%;">
+      Основы языка C#
+    </td>
+    <td style="text-align: center; width: 100%;">
+      06.03.2023
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center; width: 100%;">
+      Практическое занятие №3 [II подгруппа]
+    </td>
+    <td style="text-align: center; width: 100%;">
+      Условные и циклические операторы
+    </td>
+    <td style="text-align: center; width: 100%;">
+      11.03.2023
+    </td>
+  </tr>
 </table>
 
 
