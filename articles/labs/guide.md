@@ -27,9 +27,8 @@ bool flag;
 
 Пример:
 ```cs
-string line;
-int number;
-bool flag;
+Console.WriteLine("Введите строку:");
+line = Console.ReadLine();
 ```
 
 ### Этап III - Программные вычисления
