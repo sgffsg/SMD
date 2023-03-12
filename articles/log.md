@@ -80,7 +80,7 @@
       Лекция №3
     </td>
     <td style="text-align: center; width: 100%;">
-      Языки и методы программирования
+      Языки программирования
     </td>
     <td style="text-align: center; width: 100%;">
       20.02.2023
