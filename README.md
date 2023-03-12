@@ -135,7 +135,7 @@ P.S. Не все темы указанные в плане будут изуча
 ### [Лекция №5 - Основные понятия и конструкции языка C#](./articles/lections/lection5.md)
 <!--  -->
 
-### [Лекция №6 - ](./articles/lections/presentation_SDLC.md)
+### [Лекция №6 - ](./articles/lections/lection6.md)
 <!--  -->
 
 
@@ -152,7 +152,7 @@ P.S. Не все темы указанные в плане будут изуча
 
 #### 4. [Циклические операторы](./articles/labs/p3.md)
 
-####  * [Справочник](./articles/labs/guide.md)
+####  * [Справочник по лабораторным](./articles/labs/guide.md)
 
 <br>
 
